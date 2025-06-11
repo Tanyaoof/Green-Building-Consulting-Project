@@ -48,6 +48,17 @@ The hybrid model uses:
 
 ---
 
+## Recommendations
+
+For cost-conscious, sustainability-aligned builders in India:
+
+- Adopt **LC³ cement**, **fly ash bricks**, and **recycled aggregates** to lower emissions without major cost spikes.
+- Avoid hempcrete and green roofs in small residential buildings due to high upfront and maintenance costs.
+- Reserve **green roofing** for **multi-storey buildings** (e.g., 8+ floors) where long-term cooling benefits, stormwater management, and ecosystem integration justify the investment.
+- Use **solar reflective paints** and **low-VOC finishes** to improve indoor comfort and air quality at a marginal cost increase.
+- Prioritize local sourcing to reduce transport-related emissions and costs.
+
+---
 ## Data Structure and Methodology
 
 - A comparative cost and energy analysis was performed for traditional vs green materials across walling, roofing, flooring, structure, paints, and insulation.
@@ -140,17 +151,7 @@ While green materials have environmental benefits, their cost can vary widely.
 
 ---
 
-## Recommendations
 
-For cost-conscious, sustainability-aligned builders in India:
-
-- Adopt **LC³ cement**, **fly ash bricks**, and **recycled aggregates** to lower emissions without major cost spikes.
-- Avoid hempcrete and green roofs in small residential buildings due to high upfront and maintenance costs.
-- Reserve **green roofing** for **multi-storey buildings** (e.g., 8+ floors) where long-term cooling benefits, stormwater management, and ecosystem integration justify the investment.
-- Use **solar reflective paints** and **low-VOC finishes** to improve indoor comfort and air quality at a marginal cost increase.
-- Prioritize local sourcing to reduce transport-related emissions and costs.
-
----
 
 ## Research References
 
