@@ -85,6 +85,12 @@ The hybrid model uses:
 
 At ₹8 per unit (avg.), this results in ₹27,600–₹28,800 annual savings.
 
+**Visualization:**
+
+![Annual Energy Saving by Green Materials](data_visuals/annual%20energy%20saving%20by%20green%20materials.png)
+
+---
+
 **Material Maintenance Requirements (vs Traditional):**
 
 | Green Material                  | Relative Maintenance (% vs traditional) |
@@ -100,6 +106,37 @@ At ₹8 per unit (avg.), this results in ₹27,600–₹28,800 annual savings.
 | Low-VOC Paints                  | –3%                                     |
 | Solar Reflective Tiles/Paint    | –10%                                    |
 | Green Roofs                     | +20% (for individual units)             |
+
+**Visualization:**
+
+![Annual Savings Summary](data_visuals/annual_savings_summary.png)
+
+---
+
+## Break-Even Analysis
+
+- A fully green building breaks even in about 50–55 years through energy cost savings alone.
+- A hybrid strategy can cut this down significantly while balancing performance and cost.
+
+**Visualizations:**
+
+**Full Green Only:**
+
+![Break-Even if Only Green Materials](data_visuals/breakeven%20if%20only%20green%20materials.png)
+
+**Strategy Comparison:**
+
+![Strategy Break-Even Curve](data_visuals/strategy_break_even_curve.png)
+
+---
+
+## Comparative Cost Analysis
+
+While green materials have environmental benefits, their cost can vary widely.
+
+**Visualization:**
+
+![Comparative of Prices](data_visuals/comparative%20of%20prices.png)
 
 ---
 
@@ -130,4 +167,4 @@ This analysis draws from academic research, green building manuals, and governme
 
 This repository is part of a sustainability consulting-style analysis. All data sources, tools, and calculations are open-source and made for academic, analytical, and decision-support purposes.
 
-Project maintained by: [Your Name]
+Project maintained by: [Tanya Yadav]
